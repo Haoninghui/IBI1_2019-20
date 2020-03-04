@@ -1,0 +1,3 @@
+After first try on the GitKraken, I find it is not that difficult. Still, there is somehthing confused me.
+Wht can't I change the contend of my website page information after I editting the index.md files?
+How can I create a totally new webpage if not use index.md? Just create anothor myself?
