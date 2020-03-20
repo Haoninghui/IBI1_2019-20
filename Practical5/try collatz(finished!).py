@@ -14,15 +14,19 @@ def collatz(number):
     else:
         #the next number is the result of the equation
         return 3 * number +1
-    
+    #search on the Internet tuse this code
 
 #int let the input number be integer
 #words after input is the hint to input the number.
 number = int(input("positive integer:"))
+#while loop used to let the loop stop at a specific point(first appeal 1)
 while True:
+    #give the variable a calculated result from the previous code.
     number = collatz(number)
     print(str(number))
+#Required condition that stop when first appear number1.
     if number == 1:
         break
+    # caution that while loop will not stop without a stopping word.
     
 print(str(number))
