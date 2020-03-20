@@ -18,3 +18,5 @@ print(e<a)
 Z= x or y
 W= x!=y
 print(Z==W)
+#z always equals to w because none specific values are put in x or y.
+#they are equal under any circumstances.
