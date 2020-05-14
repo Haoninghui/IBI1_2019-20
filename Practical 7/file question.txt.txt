@@ -1,0 +1,5 @@
+Question：Kenya and Colombia hace similar population in different parts of the world. Plot and compare the new cases.
+Line number: 97 to 123
+Result：New cases in Kenya is always less than Colombia.
+reason: 1.different parts in the world. Kenya is in Africa and far way from China and Colombia is in America.
+2. circulation of people in Kenya is much less than Colombia which decreases the increase of new cases.
