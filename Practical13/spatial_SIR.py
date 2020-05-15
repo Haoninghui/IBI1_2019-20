@@ -13,3 +13,12 @@ population=np.zeros((100,100))
 
 outbreak=np.random.choice(range(100),2)
 population[outbreak[0],outbreak[1]] = 1
+
+plt.figure(figsize=(6,4),dpi=150)
+plt.imshow(population,cmap='viridis',interpolation='nearest')
+#set up model parameters
+beta=0.3#independent now
+gamma=0.05 #infected people recover probobility
+#every time the infected will acount how many neighbors
+#what is the ratio that touched neighbors will get infected
+#
