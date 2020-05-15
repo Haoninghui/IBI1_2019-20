@@ -101,7 +101,9 @@ for item in all_sit:
 if a == 1: #'a' still equals to 1 indicating there is no answer
     print("No")
 
-#this is not my idividual work as we do it in a group and I have refer to others code.
+#this is not my idividual work as we do it in a group.
+#I learned the how to recursively pick two numbers and merge them through all available operands 
+    #until there is only one value left in a group work (although it is very hard for myself.....)
     
 #there still somewhere to improve!!!!!
 #1. different input order may lead to different operation time

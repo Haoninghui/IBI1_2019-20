@@ -1,0 +1,8 @@
+I found this practical is somehow difficult and it went on less smoothly. For the first file, when I added 'random' in the code it when error, after I changed
+it, it was wrong again and again. I did some modification but could not get what I want. Then I searched on the Internet and turned to others. However, others 
+code did not work when I change them to fit my situation so although I known what to do, I did not to how to doit and what code should
+I used. Hence, I added detailed explanation in my typing code to remind myself of how to present ideas. I thought I might have to study on my own next time doing the practicals baceuse there are 
+something that did not mentioned in the lecture (maybe it was because I failed to get myself:-( )
+ Due to the above reason, I thought I was less enjoyed than others.....Therefore, the most thing I will do in the futur is that learn BASIC operation command in a 
+new 'language' and search for some exercises first before doing the practicals. If time permits and others are willing to share, I will ask them how they transform 
+their ideas to real working code....

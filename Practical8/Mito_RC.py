@@ -59,6 +59,6 @@ finally:
 		xfile.close()
 fout.close()
 
-#this is not all done by myself as we work in a group and others solve my question by offering and modifying code idea.:-(
+#others solve my question by modifying code idea.:-(
 #It works well anyway in the end. 
 #Anyway, I do understand the logic and operations in the code.

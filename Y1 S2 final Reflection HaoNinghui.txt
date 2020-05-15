@@ -13,6 +13,6 @@ the solution on the Internet (but always cannot find) and do these four over and
 fimilar with Python (others in the future) and then do the practicals.
 
 When I found somewhere that could further develop or errors, most time I could not fix them myself. So I just write the problems at the end of my code and 
-sometimes turn to someone else and use their form of code. Things may better after we have some knowledge about normal error types and how to fix them.
+sometimes turn to someone else. Things may better after we have some knowledge about normal error types and how to fix them.
 
 Anyway, after practicals, I do learn Python better.)
