@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 24 17:47:06 2020
+Created on Fri Apr 24 07:59:59 2020
 
-@author: thinkpad
+@author: HaoNinghui
 """
 
 s = input(r"Please input integers between 1 to 23 to compute 24points: (Please use ',' to divide them)")
@@ -101,6 +101,8 @@ for item in all_sit:
 if a == 1: #'a' still equals to 1 indicating there is no answer
     print("No")
 
+#this is not my idividual work as we do it in a group and I have refer to others code.
+    
 #there still somewhere to improve!!!!!
 #1. different input order may lead to different operation time
 #2. the operation time is possible not the least operation time, for example if I input 1,3,5,4

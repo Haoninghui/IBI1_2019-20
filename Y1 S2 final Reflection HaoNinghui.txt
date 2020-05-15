@@ -1,0 +1,18 @@
+During this course, I can do some simple statistic analysis using Python (plot, read, numpy, string, many loops like for if while)
+Some common file form like fasta, xml, txt, png can be read, wrote, saved under my code command. Also, L12 consolidated the probobility that learnt in Semester 1.
+I have know the development that how scientists studied on DNA sequence and applied the silico methods to analyze (L10)
+The related evaluation of code were also clear.
+
+(Reflection on doing the practical 
+(at first I misunderstood the instruction and thought to write reflections on practical)
+
+I hope that we could have some small practice to consolid the use of newly learned before we do the practical. And when I do the practical,
+the major difficulty I came across was that I could not apply what I learnt to use and did not know how to write the code to perfom my process.
+So it took a large amount of time to de the parcticals and I must refer to the lecture, ask others and see what was on the discussion board, search
+the solution on the Internet (but always cannot find) and do these four over and over again. So I wish there will be some some exercises to get us 
+fimilar with Python (others in the future) and then do the practicals.
+
+When I found somewhere that could further develop or errors, most time I could not fix them myself. So I just write the problems at the end of my code and 
+sometimes turn to someone else and use their form of code. Things may better after we have some knowledge about normal error types and how to fix them.
+
+Anyway, after practicals, I do learn Python better.)
